@@ -1,0 +1,2 @@
+crossOriginIsolated.log
+ 
